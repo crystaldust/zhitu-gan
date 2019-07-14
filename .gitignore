@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+__pycache__
+.idea
+executed/
+instance_segmentation_with_mask_rcnn.ipynb
+instance_segmentation_with_mask_rcnn.pdf
+data/
+logs/
